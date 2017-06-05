@@ -16,8 +16,8 @@
 title: Team Elam
 description: This is our story, our home away from home, and our adventures as a team.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: jekyll # the GitHub repo name for your project
+url: https://jaythanelam.github.io/swiss/ # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: https://jaythanelam.github.io/swiss/ # the GitHub repo name for your project
 github_username: jaythanelam
 
 # Set theme color here
